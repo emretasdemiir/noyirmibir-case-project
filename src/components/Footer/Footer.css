@@ -1,0 +1,48 @@
+.footer-container {
+    background-color: #434448;
+}
+
+.footer-elements {
+    display        : flex;
+    align-items    : center;
+    justify-content: space-between;
+    padding        : 40px 64px;
+}
+
+.footer-text {
+    width      : 670px;
+    height     : 100px;
+    left       : 64px;
+    top        : 40px;
+    font-family: 'Sora';
+    font-style : normal;
+    font-weight: 700;
+    font-size  : 40px;
+    line-height: 50px;
+    color      : #FFFFFF;
+}
+
+.footer-image-container {
+    padding: 0 77px 36px 51px;
+
+}
+
+.footer-image {
+    width: 100%;
+
+}
+
+.watch-all-videos-button {
+    border-radius : unset;
+    border-color  : #fff;
+    width         : 308px;
+    height        : 52px;
+    color         : #ED1C24;
+    font-family   : 'Sora';
+    font-style    : normal;
+    font-weight   : 700;
+    font-size     : 16px;
+    line-height   : 20px;
+    text-transform: uppercase;
+    cursor        : pointer;
+}

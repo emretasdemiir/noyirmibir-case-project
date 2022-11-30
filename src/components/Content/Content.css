@@ -1,0 +1,76 @@
+.content-image-elements {
+    text-align: center;
+    position  : absolute;
+    top       : 42%;
+    left      : 50%;
+    transform : translate(-50%, -50%);
+}
+
+.content-image {
+    width: 100%;
+}
+
+.image-text {
+    width        : 514px;
+    height       : 142px;
+    font-weight  : 700;
+    font-size    : 56px;
+    line-height  : 71px;
+    text-align   : center;
+    color        : #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.find-out-more-button {
+    border-radius : unset;
+    border-color  : #fff;
+    width         : 183px;
+    height        : 52px;
+    color         : #ED1C24;
+    font-family   : 'Sora';
+    font-style    : normal;
+    font-weight   : 700;
+    font-size     : 16px;
+    line-height   : 20px;
+    text-transform: uppercase;
+    cursor        : pointer;
+}
+
+
+.content-showcase-text {
+    margin     : 72px 0 48px 0;
+    font-family: 'Sora';
+    font-style : normal;
+    font-weight: 700;
+    font-size  : 32px;
+    line-height: 40px;
+    text-align : center;
+    color      : #400E03;
+}
+
+.content-showcase-elements-container {
+    display        : flex;
+    align-items    : center;
+    justify-content: center;
+    margin-bottom  : 48px;
+}
+
+.arrow-button {
+    border          : unset;
+    background-color: #FFFFFF;
+    cursor          : pointer;
+}
+
+.content-showcase-page-container {
+    display        : flex;
+    align-items    : center;
+    justify-content: center;
+    margin-bottom  : 72px;
+}
+
+.page-button {
+    border          : unset;
+    background-color: unset;
+    cursor          : pointer;
+    padding-right   : 12px;
+}

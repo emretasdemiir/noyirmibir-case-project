@@ -1,0 +1,71 @@
+.showcase-element-container {
+    width        : 376px;
+    background   : #FFFFFF;
+    border       : 1px solid #E0D8D7;
+    border-radius: 2px;
+
+    margin-right : 24px;
+    border-bottom: 4px solid #ED1C24;
+}
+
+.texts-container {
+    padding: 24px 24px 0 24px;
+}
+
+.title {
+    margin-bottom : 12px;
+    font-weight   : 600;
+    font-size     : 20px;
+    line-height   : 136%;
+    text-transform: uppercase;
+    color         : #400E03;
+}
+
+.description {
+    margin-bottom: 24px;
+    font-family  : 'Sora';
+    font-style   : normal;
+    font-weight  : 600;
+    font-size    : 14px;
+    line-height  : 160%;
+    color        : #400E03;
+}
+
+.buttons-container {
+    width         : 354px;
+    height        : auto;
+    padding-bottom: 8px;
+    padding-left  : 12px;
+}
+
+.learn-more-button {
+    width         : 176.5px;
+    height        : 47px;
+    background    : #FDE4E5;
+    border-radius : 2px;
+    border-color  : #fff;
+    font-family   : 'Sora';
+    font-style    : normal;
+    font-weight   : 700;
+    font-size     : 12px;
+    line-height   : 15px;
+    text-transform: uppercase;
+    color         : #ED1C24;
+    cursor        : pointer;
+}
+
+.find-a-dealer-button {
+    width         : 176.5px;
+    height        : 47px;
+    background    : #ED1C24;
+    border-radius : 2px;
+    border-color  : #fff;
+    font-family   : 'Sora';
+    font-style    : normal;
+    font-weight   : 700;
+    font-size     : 12px;
+    line-height   : 15px;
+    text-transform: uppercase;
+    color         : #FFFFFF;
+    cursor        : pointer;
+}
